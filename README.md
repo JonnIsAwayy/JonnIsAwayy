@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonnIsAwayy
 - 👀 I’m interested in Machine Learning and Software Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything related to python
+- 💞️ I’m looking to collaborate on anything related to python and flutter
 - 📫 How to reach me Email Me jonathan.76.j4@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love dogs
