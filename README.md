@@ -14,7 +14,7 @@
 - 🔗 Let's Connect!
   * 📧 Email: jonathan.76.j4@gmail.com
   * 💼 LinkedIn: https://www.linkedin.com/in/jonatanwork/
-  * 🌐 Portfolio/Website:
+  * 🌐 Portfolio/Website: https://futuristic-baker-6c9.notion.site/Jonatan-s-Portfolio-231f75604fc38083bde8e8995256484e
 - 🎮 A Little Bit About Me
   * Pronouns: he/him
   * Outside of coding, I'm a huge gamer!
