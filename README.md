@@ -8,7 +8,7 @@
   * **Software/Tools:** VS Code, Tableau, Mendeley, Microsoft Office Suite, AIPRM for ChatGPT
   * **Concepts:** Object-Oriented Programming (OOP), Data Structures, Systems Analysis, Database Management
 - ✨ What I'm Up To & Looking For
-  * 🔭 Currently building projects in Python and refining my React skills.
+  * 🔭 Currently building projects in React and refining my Python skills.
   * 💡 I'm always open to collaborating on exciting projects, especially those focused on IT Project Management or back-end development.
   * 🤝 Interested in contributing to open-source initiatives related to project management tools, system architecture, or building robust back-end solutions.
 - 🔗 Let's Connect!
@@ -17,7 +17,7 @@
   * 🌐 Portfolio/Website: https://futuristic-baker-6c9.notion.site/Jonatan-s-Portfolio-231f75604fc38083bde8e8995256484e
 - 🎮 A Little Bit About Me
   * Pronouns: he/him
-  * Outside of coding, I'm a huge gamer!
+  * Outside of coding, I'm a huge gamer and also a swimmer!
   * I'm also a big fan of dogs 🐶!
 
 <!---
