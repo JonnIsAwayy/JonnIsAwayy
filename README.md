@@ -1,4 +1,4 @@
-- 👋 Hi there! I'm **Jonatan (@JonnIsAwayy)**, a passionate Information Systems student currently in my 6th semester.
+- 👋 Hi there! I'm **Jonatan (@JonnIsAwayy)**, a passionate Information Systems student currently in my 7th semester.
 - 🚀 I'm deeply interested in **IT Project Management**, **Software Development** (especially diving into back-end logic! 🤓), and exploring the exciting world of **Machine Learning**.
 - 🌱 I'm actively expanding my skillset with **Python** and **React**.
 - 💻 My Tech Stack & Skills
