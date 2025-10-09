@@ -2,7 +2,7 @@
 - 🚀 I'm deeply interested in **IT Project Management**, **Software Development** (especially diving into back-end logic! 🤓), and exploring the exciting world of **Machine Learning**.
 - 🌱 I'm actively expanding my skillset with **Python** and **React**.
 - 💻 My Tech Stack & Skills
-  * **Languages:** Python, MySQL, Visual Basic
+  * **Languages:** Python, MySQL, Visual Basic, Java, PHP
   * **Frameworks/Libraries:** React JS
   * **Project Management Tools:** Microsoft Project, Git/GitHub 
   * **Software/Tools:** VS Code, Tableau, Mendeley, Microsoft Office Suite, AIPRM for ChatGPT
