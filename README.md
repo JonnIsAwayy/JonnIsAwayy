@@ -7,6 +7,7 @@ I enjoy designing systems with clear logic, clean structure, and scalable soluti
 ---
 
 ## 🚀 Tech Stack & Tools
+
 **Languages:** Python · MySQL · Java · PHP · Visual Basic  
 **Frameworks/Libraries:** React.js  
 **Full-Stack Tools:** Git · GitHub · REST APIs  
@@ -30,9 +31,9 @@ I enjoy designing systems with clear logic, clean structure, and scalable soluti
 ---
 
 ## 🔗 Connect With Me  
-📧 Email: **jonathan.76.j4@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/jonatanwork/**  
-🌐 Portfolio: **https://futuristic-baker-6c9.notion.site/Jonatan-s-Portfolio-231f75604fc38083bde8e8995256484e**
+📧 **Email:** **jonathan.76.j4@gmail.com**  
+💼 **LinkedIn:** **https://www.linkedin.com/in/jonatanwork/**  
+🌐 **Portfolio:** [jonatan-portfolio](https://futuristic-baker-6c9.notion.site/Jonatan-s-Portfolio-231f75604fc38083bde8e8995256484e)
 
 ---
 
