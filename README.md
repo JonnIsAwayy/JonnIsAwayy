@@ -9,7 +9,7 @@ I enjoy designing systems with clear logic, clean structure, and scalable soluti
 ## 🚀 Tech Stack & Tools
 
 **Languages:** Python · MySQL · Java · PHP · Visual Basic  
-**Frameworks/Libraries:** React.js  
+**Frameworks/Libraries:** React.js · Laravel · Next.js  
 **Full-Stack Tools:** Git · GitHub · REST APIs  
 **Project Tools:** Microsoft Project  
 **Software:** VS Code · Tableau · Mendeley · Microsoft Office  
