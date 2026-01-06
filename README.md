@@ -33,7 +33,7 @@ I enjoy designing systems with clear logic, clean structure, and scalable soluti
 ## 🔗 Connect With Me  
 📧 **Email:** **jonathan.76.j4@gmail.com**  
 💼 **LinkedIn:** **https://www.linkedin.com/in/jonatanwork/**  
-🌐 **Portfolio:** [jonatan-portfolio](https://futuristic-baker-6c9.notion.site/Jonatan-s-Portfolio-231f75604fc38083bde8e8995256484e)
+🌐 **Portfolio:** [jonatan-portfolio](https://my-portfolio-three-xi-95.vercel.app/)
 
 ---
 
