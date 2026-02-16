@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm **Jonatan (Jonn)**  
 
-Information Systems student (7th semester) with a strong foundation in **IT Project Management** and hands-on experience working across the **full-stack development** workflow
+Information Systems student (8th semester) with a strong foundation in **IT Project Management** and hands-on experience working across the **full-stack development** workflow
 
 I enjoy designing systems with clear logic, clean structure, and scalable solutions whether that's on the front-end, back-end, or everything in between 🤓⚡  
 
