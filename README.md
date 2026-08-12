@@ -1,6 +1,6 @@
 ## **Jonatan (Jonn)**
 
-Hello, I am Jonatan (**JonnIsAway**), a Software Engineer who bridges robust logic with premium interactive design. I am currently building enterprise-grade web applications as a Software Engineer Intern at Norxel while completing my undergraduate studies at Bakrie University.
+Hey, I'm Jonatan, a Software Engineer bridging robust logic with premium interactive design. I'm currently building enterprise-grade web applications as a Software Engineering Intern at Norxel, while completing my undergraduate studies at Bakrie University.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://jonnswork.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatanwork)
@@ -9,17 +9,23 @@ Hello, I am Jonatan (**JonnIsAway**), a Software Engineer who bridges robust log
 ---
 
 <details>
-<summary><b>Current Focus</b></summary>
+<summary><b>Current focus</b></summary>
 
-* Creating and designing high-fidelity frontend architectures and seamless integrations.
-* Acquiring knowledge of fundamental machine learning concepts and contemporary frameworks.
-* Bridging the gap between UI/UX design and functional code. 
+* Designing high-fidelity frontend architectures and seamless full-stack integrations.
+* Learning ML fundamentals and modern frameworks.
+* Bridging the gap between UI/UX design and functional code.
+
 </details>
 
 <details>
-<summary><b>Open to Collaboration</b></summary>
+<summary><b>Open to collaboration</b></summary>
 
-* Front-end projects that utilize Next.js or React.
-* Developing reusable component libraries and implementing UI/UX.
-* Crafting interactive web experiences and highly responsive user interfaces.
+* Frontend projects built with Next.js or React.
+* Reusable component libraries and UI/UX implementation.
+* Interactive, highly responsive web experiences.
+
 </details>
+
+---
+
+Check out my pinned repos below for recent work.
